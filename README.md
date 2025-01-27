@@ -19,7 +19,11 @@ Sou formado em Ciência da Computação pela Unisagrado de Bauru/SP, onde me for
   - **Aprender novas tecnologias de front-end**: Estou interessado em frameworks como React e Angular.
   - **Contribuir para projetos open source**: Quero me envolver mais em projetos colaborativos e ajudar outros desenvolvedores.
   - **Publicar meus projetos**: Planejo documentar e compartilhar meus projetos, mostrando o meu progresso e aprendizados ao longo do tempo.
-      
+
+### 📢 Entre em Contato
+- [**LinkedIn**](https://linkedin.com/in/joao-v-melo)
+- [**E-mail**](mailto:joaovmelo.17@gmail.com)
+
 Fique à vontade para acompanhar meu desenvolvimento e conectar-se! Estou aberto a feedback e colaborações.
 
 <!--
