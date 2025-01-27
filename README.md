@@ -7,12 +7,6 @@ Sou um desenvolvedor júnior, me especializando como um desenvolvedor Full-Stack
 ### Formação
 Sou formado em Ciência da Computação pela Unisagrado de Bauru/SP, onde me formei em 2023. Minha jornada no desenvolvimento começou com Java e Spring Framework, e atualmente estou buscando me aperfeiçoar nessa stack enquanto aprendo mais sobre front-end.
 
-### Experiência Profissional
-  Tive a oportunidade de trabalhar com RPA, utilizando Java para automatizar processos e aumentar a eficiência em tarefas repetitivas. Essa experiência me deu uma visão valiosa sobre como a automação pode transformar o trabalho diário e melhorar a produtividade.
-
-### Experiência de Aprendizado
-  No ano de 2024, estudei na plataforma Alura, onde tive a oportunidade de aprender com muitos professores talentosos. Durante esse período, trabalhei em diversos projetos que me ajudaram a solidificar meus conhecimentos. Decidi começar um novo GitHub, onde quero apresentar projetos pessoais e de autoria própria, em vez de apenas reproduzir exercícios de cursos. Meu objetivo é mostrar meu desenvolvimento e aprendizado de forma autêntica.
-
 ### Sobre Mim
   Sou apaixonado por tecnologia e inovação. Além de programar, gosto de:
   - 📖 **Ler**: Amo Tolkien e suas obras. O Senhor dos Aneís tem um lugar no meu coração.
