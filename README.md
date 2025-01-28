@@ -22,6 +22,7 @@ Sou formado em Ciência da Computação pela Unisagrado de Bauru/SP, onde me for
 
 ### 📢 Entre em Contato
 - [**LinkedIn**](https://linkedin.com/in/joao-v-melo)
+- [**LeetCode**](https://github.com/joao-v-melo)
 - [**E-mail**](mailto:joaovmelo.17@gmail.com)
 
 Fique à vontade para acompanhar meu desenvolvimento e conectar-se! Estou aberto a feedback e colaborações.
