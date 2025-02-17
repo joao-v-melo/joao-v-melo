@@ -7,13 +7,6 @@ Sou um desenvolvedor júnior, me especializando como um desenvolvedor Full-Stack
 ### 🎓 Formação
 Sou formado em Ciência da Computação pela Unisagrado de Bauru/SP, onde me formei em 2023. Minha jornada no desenvolvimento começou com Java e Spring Framework, e atualmente estou buscando me aperfeiçoar nessa stack enquanto aprendo mais sobre front-end.
 
-### 👨🏻‍💻 Sobre Mim
-  Sou apaixonado por tecnologia e inovação. Além de programar, gosto de:
-  - 📖 **Ler**: Amo Tolkien e suas obras. O Senhor dos Aneís tem um lugar no meu coração.
-  - 🎲 **Jogos**: Sou fã de FPS e RPGs, especialmente RPG's de mesa.
-  - 🎧 **Música**: Estou aprendendo a tocar violão. Curto muito rock e eletrônica.
-  - 💪🏻 **Atividade Física**: Estou voltando aos treinos de academia e crossfit, para melhorar meu bem-estar físico.
-
 ### 🚀 Objetivos para 2025
   - **Aprofundar conhecimentos em Java e Spring**: Continuar a desenvolver projetos que me desafiem e me permitam aplicar o que aprendi.
   - **Aprender novas tecnologias de front-end**: Estou interessado em frameworks como React e Angular.
